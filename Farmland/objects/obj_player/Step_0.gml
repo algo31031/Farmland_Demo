@@ -1,12 +1,11 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description 
 
-move_left = keyboard_check(vk_left);
-move_right = keyboard_check(vk_right);
-move_up = keyboard_check(vk_up);
-move_down = keyboard_check(vk_down);
-is_runing = keyboard_check(vk_alt);
-is_walking = keyboard_check(vk_shift);
+input_left = keyboard_check(vk_left);
+input_right = keyboard_check(vk_right);
+input_up = keyboard_check(vk_up);
+input_down = keyboard_check(vk_down);
+input_run = keyboard_check(vk_alt);
+input_walk = keyboard_check(vk_shift);
 
 // Setting speed
 //if(keyboard_check(vk_shift)) 
@@ -15,15 +14,15 @@ is_walking = keyboard_check(vk_shift);
 //    spd = spd_run;
 //else
 //    spd = spd_normal;
-spd = spd_normal - is_walking + is_runing;
+spd = spd_normal - input_walk + input_run;
 
 // movement
 moveX = 0;
 moveY = 0;
 
-moveY = (move_down - move_up)*spd;
+moveY = (input_down - input_up)*spd;
 if(moveY == 0){
-    moveX = (move_right - move_left)*spd;
+    moveX = (input_right - input_left)*spd;
 }
 
 // collission
