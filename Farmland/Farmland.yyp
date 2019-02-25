@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0818ced5-a62a-4067-9341-20133c9d8d8d",
+            "Value": {
+                "id": "eb56b8ab-268b-4fcc-a601-3373d9be3d1f",
+                "resourcePath": "extensions\\Chiptune_RPG\\Chiptune_RPG.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
             "Key": "08674a03-a4b6-49a1-b830-880f3bc40fbd",
             "Value": {
                 "id": "3e384528-c365-4123-a0ec-2e62f2a5b6ab",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "0be920a6-4ae3-4b28-b79e-da63c90cf945",
+            "Value": {
+                "id": "1b27a2c4-4483-4494-87e0-7f5ba9f3ff03",
+                "resourcePath": "sprites\\spr_tile_cottage\\spr_tile_cottage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d6c98aa-bba1-433c-b8a4-e52852e562dd",
             "Value": {
                 "id": "400cdeab-279d-4431-8a9a-f7b8504ce594",
@@ -100,6 +116,14 @@
                 "id": "afd6b784-3b7f-4bb4-b73e-5489148f9ce5",
                 "resourcePath": "sprites\\spr_hari_female_bangs\\spr_hari_female_bangs.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "10925152-3471-4426-9975-444e479fbb94",
+            "Value": {
+                "id": "9cc6b6e0-cfb6-44b2-9ce2-bebf10b7d4a1",
+                "resourcePath": "tilesets\\tile_objects\\tile_objects.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -231,6 +255,22 @@
             }
         },
         {
+            "Key": "2dfddbde-46f5-4a30-a19f-c0082b1b2053",
+            "Value": {
+                "id": "54959ce1-e06f-4133-a761-9503931da701",
+                "resourcePath": "objects\\obj_NPC_banban\\obj_NPC_banban.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2e27e43f-4bd9-4d64-bbeb-5ff3daec77cb",
+            "Value": {
+                "id": "d02349af-49ec-405b-bcd8-5ae98c612d7b",
+                "resourcePath": "sprites\\spr_tile_objects\\spr_tile_objects.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "319d550f-c5c1-4847-8340-297b022ff62d",
             "Value": {
                 "id": "205f8590-50d8-4655-8f61-bba0b55708d9",
@@ -295,11 +335,27 @@
             }
         },
         {
+            "Key": "4282f9b3-580a-4fb3-9306-4a500d356bfe",
+            "Value": {
+                "id": "8c10cb8c-2da2-4b54-9f0f-c704a574fd35",
+                "resourcePath": "views\\4282f9b3-580a-4fb3-9306-4a500d356bfe.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "42d35bc1-7a0e-43ac-8b08-749ba60097d6",
             "Value": {
                 "id": "02ac0253-6ca6-4d3e-a1cb-c792c7355951",
                 "resourcePath": "views\\42d35bc1-7a0e-43ac-8b08-749ba60097d6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "460a94ce-796b-4a31-ac92-bcb7b63a5ba6",
+            "Value": {
+                "id": "cf4f64b4-1afb-4b3d-9458-c6a4de4b2cc8",
+                "resourcePath": "notes\\compatibility_report_250219_1833513351.yy",
+                "resourceType": "GMNotes"
             }
         },
         {
@@ -316,6 +372,22 @@
                 "id": "8cfc4c76-58d7-4320-b0cc-55bb8b9c0d24",
                 "resourcePath": "views\\47f7eb8b-0e7b-4fb3-84b6-8a121455f580.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "48046ad2-3cc5-478b-aa02-999962a48424",
+            "Value": {
+                "id": "cb042bce-3111-4b99-8c45-c7b6d1f6e950",
+                "resourcePath": "sprites\\spr_tile_plants\\spr_tile_plants.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4828361e-0389-444e-933f-b53d8807e3da",
+            "Value": {
+                "id": "213184a8-51ee-4051-981d-b174c7abf28d",
+                "resourcePath": "tilesets\\tile_cottage\\tile_cottage.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -383,6 +455,14 @@
             }
         },
         {
+            "Key": "547779f0-f419-4e27-95c6-7fe723a7e08e",
+            "Value": {
+                "id": "575016ed-bc47-476a-99b3-f9a575295260",
+                "resourcePath": "rooms\\rm_1\\rm_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "562ca597-8930-46f8-a2bc-e3db12095dad",
             "Value": {
                 "id": "12515a5d-9879-4463-8541-2ae85d984dae",
@@ -396,6 +476,14 @@
                 "id": "b1ee21e5-7e26-4d61-a21b-d6836d4c4506",
                 "resourcePath": "sprites\\spr_torso_male_white_longsleeve\\spr_torso_male_white_longsleeve.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "58415529-dfcc-4b32-8341-3438b6cbbf54",
+            "Value": {
+                "id": "3c1dcec5-0fae-45ea-a618-8aaca28dc0b0",
+                "resourcePath": "notes\\compatibility_report_250219_183607367.yy",
+                "resourceType": "GMNotes"
             }
         },
         {
@@ -487,6 +575,14 @@
             }
         },
         {
+            "Key": "730161aa-f79e-4112-87dd-1c2f26ec0594",
+            "Value": {
+                "id": "072fcfe9-a29a-4099-b22c-e552a49baf3d",
+                "resourcePath": "objects\\camera\\camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "73559e85-75d7-4598-b6c4-61a81648fc7c",
             "Value": {
                 "id": "6a66a17a-60a5-4fee-8ed2-1d0e9d806a45",
@@ -516,6 +612,14 @@
                 "id": "096f6e05-2544-475d-a80a-1acf42ee7582",
                 "resourcePath": "sprites\\spr_torso_female_teal_pirate\\spr_torso_female_teal_pirate.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b8fb1f7-fbef-434d-99f8-50d2c27673f0",
+            "Value": {
+                "id": "a8d63ff4-ef00-4e9d-92b8-bc2d6fcffb94",
+                "resourcePath": "tilesets\\tile_plants\\tile_plants.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -583,6 +687,14 @@
             }
         },
         {
+            "Key": "93cdb4cf-b7fe-4212-8869-7c26e016cb90",
+            "Value": {
+                "id": "9aa9c4f0-718c-41ab-9f53-dfba2a70c380",
+                "resourcePath": "notes\\compatibility_report_250219_1835153515.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "940a5b7a-68dc-4370-8890-437d5fc259a0",
             "Value": {
                 "id": "658b08cf-e1e6-48b3-be0a-5656e1cb2147",
@@ -607,6 +719,14 @@
             }
         },
         {
+            "Key": "9a421d5d-071e-4005-8d69-110b53062b1b",
+            "Value": {
+                "id": "3fe5b03d-2335-4118-84a6-fb47a28ea8c6",
+                "resourcePath": "sprites\\spr_tile__terrain\\spr_tile__terrain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9c2bdb29-f074-4394-9a9a-c7fabf4d3d08",
             "Value": {
                 "id": "195755d4-887b-4424-997e-ef71b704bc2a",
@@ -618,7 +738,7 @@
             "Key": "9c74864a-ab8a-4170-b9fe-a6f21e93b50c",
             "Value": {
                 "id": "c598f446-5409-4bee-82b4-11b538f6b2c6",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_0\\rm_0.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -628,6 +748,14 @@
                 "id": "c4028a3a-f4a1-4297-b9d2-d9cc462560ce",
                 "resourcePath": "sprites\\spr_hari_female_shortknot\\spr_hari_female_shortknot.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a4c3adf0-82e7-4ec7-afa8-c98746c4e75f",
+            "Value": {
+                "id": "480ae45e-cecd-4f68-9954-9c0ab08a45ea",
+                "resourcePath": "objects\\game\\game.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -727,6 +855,14 @@
             }
         },
         {
+            "Key": "bc882dcf-0635-4ed8-8367-4251f0d349f2",
+            "Value": {
+                "id": "15a45ac4-d3e0-43b8-8958-50c219efab7a",
+                "resourcePath": "objects\\obj_NPC_base\\obj_NPC_base.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c3e8aab7-1c22-460e-9bd2-96eca08030b0",
             "Value": {
                 "id": "4daa6811-7f6f-44d0-ab5d-3e9b6bf05a18",
@@ -767,6 +903,14 @@
             }
         },
         {
+            "Key": "ce6317bc-d451-4193-8bab-0729ca7a0372",
+            "Value": {
+                "id": "0c87fbd2-f10a-4d73-99e3-a82a3c7bb4a0",
+                "resourcePath": "views\\ce6317bc-d451-4193-8bab-0729ca7a0372.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d00f5763-e172-4132-8d09-000034c34b67",
             "Value": {
                 "id": "b2f067f3-7c63-45d4-9419-86e3ccdec107",
@@ -788,6 +932,14 @@
                 "id": "24be08cc-e42e-49e8-8add-35d33e1c5fc8",
                 "resourcePath": "views\\d492e00a-6198-4ad1-ac39-8fa80bdf3568.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d5dcd471-2ea5-4b65-8a30-782529eea010",
+            "Value": {
+                "id": "253f9bde-4042-4ed8-bee6-202c3156f6d9",
+                "resourcePath": "extensions\\Gamemaker_Chiptune_RPG_Music\\Gamemaker_Chiptune_RPG_Music.yy",
+                "resourceType": "GMExtension"
             }
         },
         {
@@ -823,6 +975,14 @@
             }
         },
         {
+            "Key": "dc0efdef-f22d-4134-a214-ebd0eabdf334",
+            "Value": {
+                "id": "65ef32ac-ab44-477a-a000-4b3f50e4d63d",
+                "resourcePath": "views\\dc0efdef-f22d-4134-a214-ebd0eabdf334.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dc442b52-2034-42b0-aff4-7f0278fd7944",
             "Value": {
                 "id": "dc4d7e00-1030-457a-8493-3328ebf9c30d",
@@ -847,6 +1007,22 @@
             }
         },
         {
+            "Key": "e0cc7ed8-7ae3-4298-aa7e-4e734c4c1a93",
+            "Value": {
+                "id": "c135f1e6-3d55-48b2-a0b4-20aeba75ecce",
+                "resourcePath": "views\\e0cc7ed8-7ae3-4298-aa7e-4e734c4c1a93.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e450ece1-457b-4bc2-9551-f7558b136480",
+            "Value": {
+                "id": "0a57eefd-3030-410c-b015-36345c716e66",
+                "resourcePath": "views\\e450ece1-457b-4bc2-9551-f7558b136480.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e4e3bdbc-e6d5-4f85-804e-c0ae9edeb6c4",
             "Value": {
                 "id": "089776f9-a36c-4c9c-b077-b3825ed390ac",
@@ -855,11 +1031,11 @@
             }
         },
         {
-            "Key": "e7ee962a-cbcb-4f21-8ba0-16490587ed61",
+            "Key": "e51403b5-443e-42e4-b00d-7f75858b7897",
             "Value": {
-                "id": "ec40dc0f-dd81-4a21-8347-0d82428cc28a",
-                "resourcePath": "sprites\\spr_player\\spr_player.yy",
-                "resourceType": "GMSprite"
+                "id": "72309fa9-e5f9-4a97-8f10-41d8103d8867",
+                "resourcePath": "tilesets\\tile_terrain\\tile_terrain.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -895,6 +1071,14 @@
             }
         },
         {
+            "Key": "eb204aae-971e-49e4-b556-c76c5b6a52dd",
+            "Value": {
+                "id": "7a41218c-0a9c-4462-9fb4-eda37c122e95",
+                "resourcePath": "sprites\\character_shadow\\character_shadow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ee7e2828-146c-457c-a1cb-d0c0a2d83ddc",
             "Value": {
                 "id": "568939fe-2d55-4d7a-a989-fb601540a892",
@@ -908,6 +1092,14 @@
                 "id": "ae99dd1a-3f1d-40d8-8132-f4b28e36d1df",
                 "resourcePath": "views\\eee02f3e-47a4-4e2d-8112-e8a3c863a7ad.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eefaaddb-0081-44cf-8a24-08794a750746",
+            "Value": {
+                "id": "889a8ec5-6ce2-4c1a-acad-b8851d53f954",
+                "resourcePath": "extensions\\rafztar_biopocalypse\\rafztar_biopocalypse.yy",
+                "resourceType": "GMExtension"
             }
         },
         {

@@ -1,0 +1,4 @@
+Missing audiogroup for sound: 'bgmTown01' - setting to default audio group
+Missing audiogroup for sound: 'bgmTown02' - setting to default audio group
+Missing audiogroup for sound: 'bgmTown03' - setting to default audio group
+Missing audiogroup for sound: 'bgmTown04' - setting to default audio group
