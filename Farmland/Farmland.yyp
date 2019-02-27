@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "0fe1ed78-a9d5-42ef-8293-e2c22886ac15",
+            "Value": {
+                "id": "b1f0fed8-f2da-4148-b146-c6806d013bf2",
+                "resourcePath": "sprites\\spr_transation\\spr_transation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "10925152-3471-4426-9975-444e479fbb94",
             "Value": {
                 "id": "9cc6b6e0-cfb6-44b2-9ce2-bebf10b7d4a1",
@@ -458,7 +466,7 @@
             "Key": "547779f0-f419-4e27-95c6-7fe723a7e08e",
             "Value": {
                 "id": "575016ed-bc47-476a-99b3-f9a575295260",
-                "resourcePath": "rooms\\rm_1\\rm_1.yy",
+                "resourcePath": "rooms\\rm_farm_house\\rm_farm_house.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -540,6 +548,14 @@
                 "id": "e69741e8-ccd1-428b-9e75-c7f6a7894a54",
                 "resourcePath": "views\\649f0473-a8f1-42f2-9a02-18d1e4fb94c0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "64fa8465-0794-400e-8803-ac2b1d6ed537",
+            "Value": {
+                "id": "bc8c1a65-5f27-4a90-ab7a-a994b00b6a2f",
+                "resourcePath": "sprites\\spr_tile_house_inside\\spr_tile_house_inside.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -692,6 +708,14 @@
                 "id": "9aa9c4f0-718c-41ab-9f53-dfba2a70c380",
                 "resourcePath": "notes\\compatibility_report_250219_1835153515.yy",
                 "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "9400003f-3a14-4f1a-898c-e48fa21dbf7a",
+            "Value": {
+                "id": "11529735-a285-4047-a925-c11cf370ac50",
+                "resourcePath": "shaders\\shader0\\shader0.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -927,6 +951,14 @@
             }
         },
         {
+            "Key": "d29faeac-9367-4983-8d06-28dce4c6680d",
+            "Value": {
+                "id": "5a172a01-5f44-4833-a352-3237fce278e9",
+                "resourcePath": "rooms\\rm_farm_house_room_1f\\rm_farm_house_room_1f.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d492e00a-6198-4ad1-ac39-8fa80bdf3568",
             "Value": {
                 "id": "24be08cc-e42e-49e8-8add-35d33e1c5fc8",
@@ -1012,6 +1044,14 @@
                 "id": "c135f1e6-3d55-48b2-a0b4-20aeba75ecce",
                 "resourcePath": "views\\e0cc7ed8-7ae3-4298-aa7e-4e734c4c1a93.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e29374ac-398a-4642-a7a7-3bd91bc535fd",
+            "Value": {
+                "id": "b809709c-39bb-4565-9f19-0750f28d06a3",
+                "resourcePath": "objects\\transation\\transation.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1156,6 +1196,14 @@
                 "id": "d4cece52-4965-4b83-a30f-f7e54b654438",
                 "resourcePath": "sprites\\spr_hari_male_longhawk\\spr_hari_male_longhawk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f7eb4c20-b824-4e87-825f-c905466a9453",
+            "Value": {
+                "id": "7156922a-2c6a-4066-91bb-83b8e10e170c",
+                "resourcePath": "tilesets\\tile_house_inside\\tile_house_inside.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {

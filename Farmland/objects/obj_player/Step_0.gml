@@ -54,6 +54,17 @@ if(moveY != 0){
     }
 }
 
+var inst = instance_place(x, y, transation);
+if(inst != noone and frame_y == inst.player_facing_before_transation){
+    with(game){
+        do_transation = true;
+        spawn_player_facing_after_transation = inst.player_facing_after_transation;
+        spawn_player_x = inst.player_x;
+        spawn_player_y = inst.player_y;
+        room_goto(inst.target_room);
+    }
+}
+
 
 x += moveX;
 y += moveY;
