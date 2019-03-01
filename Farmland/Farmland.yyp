@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "2cb246c2-55d2-4ea1-ad7e-b89e44185764",
+            "Value": {
+                "id": "3bc7dadc-2da2-4bd6-b45f-75696714ce4e",
+                "resourcePath": "tilesets\\tile_walls_and_stairs\\tile_walls_and_stairs.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "2dfc7b53-efd8-4b5f-b79e-5a30d6dbffbb",
             "Value": {
                 "id": "c2f94718-4aa7-48da-95b5-d7b2b44bf421",
@@ -551,14 +559,6 @@
             }
         },
         {
-            "Key": "64fa8465-0794-400e-8803-ac2b1d6ed537",
-            "Value": {
-                "id": "bc8c1a65-5f27-4a90-ab7a-a994b00b6a2f",
-                "resourcePath": "sprites\\spr_tile_house_inside\\spr_tile_house_inside.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "655b6fed-3b17-49eb-a52e-c990dabe5573",
             "Value": {
                 "id": "bf8063ac-cef7-42c7-925c-1b66c0d21c4c",
@@ -603,6 +603,14 @@
             "Value": {
                 "id": "6a66a17a-60a5-4fee-8ed2-1d0e9d806a45",
                 "resourcePath": "sprites\\spr_hari_male_shorthawk\\spr_hari_male_shorthawk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74639030-ec04-4c3c-8da0-28cbe2417f56",
+            "Value": {
+                "id": "6ee1517f-b1ca-4780-9544-cdfdc24c01ad",
+                "resourcePath": "sprites\\spr_tile_house_inside\\spr_tile_house_inside.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -879,6 +887,14 @@
             }
         },
         {
+            "Key": "bba8e0ca-8685-49c7-87ad-c7a23fdbdd0a",
+            "Value": {
+                "id": "11d0cab0-24f6-4402-acd2-6d842f36b265",
+                "resourcePath": "sprites\\spr_tile_house_walls\\spr_tile_house_walls.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bc882dcf-0635-4ed8-8367-4251f0d349f2",
             "Value": {
                 "id": "15a45ac4-d3e0-43b8-8958-50c219efab7a",
@@ -948,14 +964,6 @@
                 "id": "9f1cfa6e-ccd7-41f2-a25c-2aeaa4523dea",
                 "resourcePath": "sprites\\spr_torso_female_white_sleeveless\\spr_torso_female_white_sleeveless.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d29faeac-9367-4983-8d06-28dce4c6680d",
-            "Value": {
-                "id": "5a172a01-5f44-4833-a352-3237fce278e9",
-                "resourcePath": "rooms\\rm_farm_house_room_1f\\rm_farm_house_room_1f.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -1119,6 +1127,14 @@
             }
         },
         {
+            "Key": "ee1ecbea-77f5-4aba-80d5-481a935ca372",
+            "Value": {
+                "id": "6d3840c4-e8e4-46c2-b0b9-6b94d3f86e45",
+                "resourcePath": "rooms\\rm_farm_house_2f\\rm_farm_house_2f.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ee7e2828-146c-457c-a1cb-d0c0a2d83ddc",
             "Value": {
                 "id": "568939fe-2d55-4d7a-a989-fb601540a892",
@@ -1180,6 +1196,14 @@
                 "id": "80e3fe4c-cf11-44c0-817e-566ff19fe897",
                 "resourcePath": "sprites\\spr_hari_male_page\\spr_hari_male_page.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f3f29fa6-05a9-46b4-b873-ea31fc33ccd3",
+            "Value": {
+                "id": "a4ff58ad-0371-47c4-8436-0561816c1816",
+                "resourcePath": "rooms\\rm_farm_house_1f\\rm_farm_house_1f.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

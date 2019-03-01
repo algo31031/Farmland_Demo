@@ -1,6 +1,9 @@
 /// @description 
 
-spd = 2;
+spd_walk = 1;
+spd_normal = 2;
+spd_run = 3;
+spd = spd_walk;
 
 frame_x = 0;
 frame_y = player_animation.move_down; 

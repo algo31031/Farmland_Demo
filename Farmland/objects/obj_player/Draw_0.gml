@@ -6,11 +6,13 @@ var yy = y - y_offset;
 
 
 // choose player direction
-if      (moveX > 0) { frame_y = player_animation.move_right; }
-else if (moveX < 0) { frame_y = player_animation.move_left; }
-else if (moveY > 0) { frame_y = player_animation.move_down; }
-else if (moveY < 0) { frame_y = player_animation.move_up; }
-else                { frame_x = 0; }
+switch(facing) {
+    case dir.right: frame_y = player_animation.move_right; break;
+    case dir.left:  frame_y = player_animation.move_left;  break;
+    case dir.down:  frame_y = player_animation.move_down;  break;
+    case dir.up:    frame_y = player_animation.move_up;    break;
+    case -1:        frame_x = 0;
+}
 
 draw_sprite_part(character_shadow, 0, floor(frame_x)*frame_size, frame_y*frame_size, frame_size, frame_size, xx, yy);
 draw_sprite_part(spr_body, 0, floor(frame_x)*frame_size, frame_y*frame_size, frame_size, frame_size, xx, yy);

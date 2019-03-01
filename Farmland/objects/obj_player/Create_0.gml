@@ -27,3 +27,4 @@ spr_hair = spr_hari_male_page;
 x_offset = sprite_get_xoffset(mask_index);
 y_offset = sprite_get_yoffset(mask_index);
 
+facing = -1;
